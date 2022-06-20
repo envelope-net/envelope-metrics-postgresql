@@ -1,5 +1,4 @@
-﻿using Envelope.Extensions;
-using Envelope.Infrastructure;
+﻿using Envelope.Infrastructure;
 
 namespace Envelope.Metrics.PostgreSql;
 
